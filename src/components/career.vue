@@ -30,31 +30,24 @@
         </div>
     </div>
 </template>
-
 <script>
 </script>
-
 <style>
 .main-intern {
     color: #c0c0c0;
 }
-
 .web-marketing h3 {
     color: #00bfff !important;
 }
-
 .con-mane {
     color: #f0e68c !important;
 }
-
 .wanted {
     background-image: linear-gradient(-225deg, #FFFEFF 0%, #D7FFFE 100%);
 }
-
 h1 {
     color: #a9a9a9;
 }
-
 h2 {
     border-bottom:1px solid rgba(65,184,131,0.5);
 }

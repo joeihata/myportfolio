@@ -7,12 +7,12 @@ import language from '@/components/language'
 import career from '@/components/career'
 import portfolio from '@/components/portfolio'
 
+import BootstrapVue from 'bootstrap-vue'
+import 'bootstrap/dist/css/bootstrap.css'
+import 'bootstrap-vue/dist/bootstrap-vue.css'
+
 Vue.use(Router)
 Vue.use(BootstrapVue)
-
-import BootstrapVue from 'bootstrap-vue' 
-import 'bootstrap/dist/css/bootstrap.css'
-import 'bootstrap-vue/dist/bootstrap-vue.css' 
 
 export default new Router({
   routes: [
@@ -40,6 +40,6 @@ export default new Router({
       path: '/portfolio',
       name: 'portfolio',
       component: portfolio
-    },
+    }
   ]
 })

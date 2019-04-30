@@ -56,40 +56,32 @@
         </div>
     </div>
 </template>
-
 <script>
 </script>
-
 <style>
 h3 {
     color: #191970;
     font-size: 30px;
 }
-
 .html {
     background-color: #e6e6fa;
     height: 50px;
 }
-
 .css {
     background-color: #f5fffa;
     height: 50px;
 }
-
 .php {
     background-color: #dda0dd;
     height: 50px;
 }
-
 .js {
     background-color: #ffffe0;
     height: 50px;
 }
-
 @media screen and (max-width:800px){
     .sp-block {
         display: none;
     }
 }
-
 </style>

@@ -24,28 +24,23 @@
         </nav>
     </div>
 </template>
-
 <style>
 nav {
     height: 60px;
     color: #9900FF;
     display: none;
 }
-
 .bg-dark {
     background-image: linear-gradient(-225deg, #E3FDF5 0%, #FFE6FA 100%);
 }
-
 .nav-item {
     color: black !important;
     float: left;
     border-right: 1px solid #DDD;
 }
-
 .text {
     color: gray !important;
 }
-
 .text:hover {
     padding: 16px 24px;
     background-color: white;
@@ -53,4 +48,3 @@ nav {
     color: #4169e1 !important;
 }
 </style>
-

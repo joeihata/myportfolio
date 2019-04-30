@@ -4,19 +4,15 @@
     <router-view/>
   </div>
 </template>
-
 <script>
 import myheader from './components/myheader'
-
 export default {
   name: 'App',
   components: {
     myheader
-  },
+  }
 }
-
 </script>
-
 <style>
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
@@ -25,9 +21,7 @@ export default {
   text-align: center;
   color: white;
 }
-
 #logo-footer {
   width: 40%;
 }
-
 </style>

@@ -8,25 +8,17 @@
     </div>
   </div>
 </template>
-
 <script>
 </script>
-
 <style>
-
-
 .main-image-title {
   color: black;
   font-size: 70px;
   padding-top: 250px;
 }
-
 .joe{
   color: #4b0082;
 }
-
-
-
 @media screen and (max-width:800px){
   .main-image-title {
   font-size: 50px;
